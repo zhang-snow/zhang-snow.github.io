@@ -1,0 +1,27 @@
+ul.errorlist{
+    list-style-type: none;
+    margin: 0px;
+}
+
+ul.errorlist li{
+    color: #fff !important;
+    margin: 0 0 2px 0;
+    padding-left: 15px;
+}
+
+ul.errorlist {
+    padding-left: 0 !important;
+    margin-bottom: 10px;    
+}
+
+ul.errorlist {
+    border: 1px solid #ff0039;
+    padding: 13px;
+    background-color: #ff0039;
+}
+
+a {
+    text-decoration: none;
+}
+
+ins.adsbygoogle { background: transparent !important; }
